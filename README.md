@@ -3,7 +3,7 @@ Cronograma de atividade condicionado a realização do controles do Rc Car.
 
 
 #Semana 01 -
-Secar o choro.
+Relatório de Anteprojeto
 
 #Semana 02 -
 Iniciar o estudo de controle;
